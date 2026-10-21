@@ -1,4 +1,4 @@
-# 🪄 ARCANE ACADEMY
+# 🏰ARCANE ACADEMY
 ### *Some worlds are discovered. Others are summoned.*
 
 A magical adventure RPG built for the browser, where code creates the world and imagination sets the rules.
@@ -156,7 +156,7 @@ Possible directions for future development include:
 
 - 🧙 Additional quests and magical challenges.
 - 🏰 More locations and exploration areas.
-- 🪄 New spells, abilities, and character progression.
+- 🔑New spells, abilities, and character progression.
 - 💾 Expanded save and progress systems.
 - 🏆 Achievements and collectible rewards.
 - 🎵 More immersive sound and visual effects.
