@@ -30,7 +30,7 @@ Enter the academy. Explore the experience. Discover what happens when imaginatio
 
 ## 🗝️ 02 — Inside the Academy
 
-- 🪄 **Fantasy-Inspired Experience** — A magical adventure concept brought to life in the browser.
+- ✨ **Fantasy-Inspired Experience** — A magical adventure concept brought to life in the browser.
 - 🎮 **Interactive Game Development** — Built with Phaser 3 for browser-based game functionality.
 - 🌌 **Web-Based Access** — Run the game through a browser without installing a desktop application.
 - 🔐 **Supabase Integration** — Backend integration for supported application features.
@@ -166,7 +166,7 @@ These are ideas for future improvements, not claims that every feature is curren
 ## 🚀 08 — Enter the Academy
 
 <p align="center">
-  <a href="https://arcane-academy-ogkmc0pq1-nexus-34dd.vercel.app/"><strong>🪄 PLAY ARCANE ACADEMY</strong></a>
+  <a href="https://arcane-academy-ogkmc0pq1-nexus-34dd.vercel.app/"><strong>⭐ PLAY ARCANE ACADEMY</strong></a>
 </p>
 
 <p align="center">
